@@ -1,8 +1,12 @@
 # Important Modules
 
+![](./images/canvas.png)
+
 This notebooks contains some notes on modules from the Azure ML Studio that will most likely be on your DP-100 exam. It is a good idea to familiarize yourself with them.
 
-## Clean and Preprocessing Data
+Please note that this list is of course non-exhaustive. This is just a list of the modules of which I know that there are many practice questions about. 
+
+## Data Transformation
 
 ### MICE
 
@@ -15,18 +19,80 @@ For each missing value, this option assigns a new value, which is calculated by 
 
 ![](./images/clean-missing-data.png)
 
-* More info here: https://aka.ms/aml/clean-missing-data
+https://aka.ms/aml/clean-missing-data
 
 ### Edit Metadata
 
 ![](./images/edit-metadata.png)
 
-* More info here: https://aka.ms/aml/edit-metadata
+https://aka.ms/aml/edit-metadata
 
-## Modelling and feature engineering
+### Parition and Sample
 
-## Feature Selection Modules
+![](./images/partition-and-sample.png)
+
+https://aka.ms/aml/partition-and-sample
+
+### SMOTE
+
+![](./images/smote.png)
+
+https://aka.ms/aml/smote
+
+### Split data
+
+![](./images/split-data.png)
+
+https://aka.ms/aml/split-data
+
+## Feature Selection
+
+### Filter-based feature selection
+
+![](./images/filter-based-feature-importance.png)
+
+https://aka.ms/aml/filter-based-feature-selection
+
+### Permutation-based feature selection
+
+![](./images/permutation-feature-importance.png)
+
+https://aka.ms/aml/permutation-feature-importance
+
+## Machine Learning Algorithms
+
+### Linear Regression
+
+![](./images/linear-regression.png)
+
+https://aka.ms/aml/linear-regression
+
+### Neural Network Regression
+
+![](./images/neural-network-regression.png)
+
+https://aka.ms/aml/neural-network-regression
+
+## Model Training
+
+### Tune Model Hyperparameters
+
+![](./images/tune-model-hyperparametrs.png)
+
+https://aka.ms/aml/tune-model-hyperparameters
+
+## Text Analytics
+
+### Extract N-grams from text
+
+![](./images/extract-n-grams.png)
+
+https://aka.ms/aml/extract-n-gram-features-from-text
+
+### Preprocess text
+
+![](./images/preprocess-text.png)
+
+https://aka.ms/aml/preprocess-text
 
 ## Microsoft Cognitive Toolkit
-
-
