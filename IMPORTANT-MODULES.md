@@ -11,6 +11,18 @@ For each missing value, this option assigns a new value, which is calculated by 
 * [Docs (classic)](https://docs.microsoft.com/en-us/azure/machine-learning/studio-module-reference/clean-missing-data)
 * [Docs (preview)](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/clean-missing-data)
 
+### Clean Missing Data
+
+![](./images/clean-missing-data.png)
+
+* More info here: https://aka.ms/aml/clean-missing-data
+
+### Edit Metadata
+
+![](./images/edit-metadata.png)
+
+* More info here: https://aka.ms/aml/edit-metadata
+
 ## Modelling and feature engineering
 
 ## Feature Selection Modules
