@@ -28,6 +28,39 @@ In an ideal world, you should go through the [list](https://docs.microsoft.com/e
 
 ## Azure Products
 
+This is basically the trickiest part of the exam. Questions regarding other Azure Products and Services are generally *basic* but you need a good understanding of a lot of different Azure services. There might be questions about Azure Databricks (and Data Factory orchestration), DSVM and DLVM, Azure Notebooks, Azure HDInsight etc. 
+
+The tricky thing is that questions range from "what should you use if you want to run a python notebook without any installation nor Azure subscription" (Azure Notebooks) to "which virtual machine do you need if you want to connect to a PostgreSQL database" (DSVM with Linux) and other super specific questions. 
+
+Again, a solid strategy is to look for exam question dumps and understand experiment with the different services. 
+
+Here are a non-exhaustive list of training recommendations:
+- __Azure Fundamentals__: <br> Some of the knowledge required here can be found in the [AZ-900](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/index) Certification. It is advised but not at all mandatory to pass that certification first.
+- __Intro to Data Science in Azure__: <br> Follow the learning path [Explore AI solution development with data science services in Azure](https://docs.microsoft.com/en-us/learn/paths/explore-data-science-tools-in-azure/).
+- __Virtual Machines (DSVM/DSLM)__: <br> Follow the first two modules of the learning path [Get started with Machine Learning with an Azure Data Science Virtual Machine](https://docs.microsoft.com/en-us/learn/paths/get-started-with-azure-dsvm/).
+- __Azure Machine Learning Services__: <br> Follow the first module of the learning path [Build AI solutions with Azure Machine Learning service](https://docs.microsoft.com/en-us/learn/paths/build-ai-solutions-with-azure-ml-service/). 
+- __Azure Notebooks__: <br> Do at least one module in the learning path [Introduction to machine learning with Python and Azure Notebooks](https://docs.microsoft.com/en-us/learn/paths/intro-to-ml-with-python/). They are fun to do and you might learn about Machine Learning, which might help you with questions regarding Machine Learning (cleaning, feature engineering, evaluation etc).
+- __Azure Databricks__: <br> Do at least the first module of the learning path [Extract knowledge and insights from your data with Azure Databricks](https://docs.microsoft.com/en-us/learn/paths/data-science/). The other modules are recommended but not mandatory.
+
+The knowledge of other Azure Products and Services required is quite broad, but not infinite. Here are some more terms that I've come across in questions:
+
+* Azure Cognitive Services
+* Azure Data Lake Analytics
+* Azure HDInsight with Spark Mlib
+* Azure Machine Learning Studio
+* Azure Databricks
+* Azure Contanier Service
+* Azure Storage Explorer
+* Azure Blob Storage
+* Azure Data Factory
+* AzCopy
+* Data Science Virtual Machine (DSVM) windows
+* Geo-Data Science Virtual Machine (Geo-DSVM) windows
+* Deep Learning Virtual Machine (DSVM) linux
+* Deep Learning Virtual Machine (DSVM) windows
+* PyTorch Caffe2 support
+* Microsoft Cognitive toolkit
+
 ## Machine Learning & Python
 
 ## Other resources
