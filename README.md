@@ -16,6 +16,8 @@ Here is an overview of the study material I used and recommend.
 
 ## Azure ML Studio
 
+![](./mlstudio.png)
+
 Almost every question regarding Azure ML Studio / Azure ML Designer (preview) is about its modules and how to use them. I highly suggest going through the list of modules which can be found [here](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/module-reference) in the Algorithm & Module reference page. 
 
 First thing to do is to explore Azure ML Studio and some of its modules. I recommend following this tutorial on [automobile pricing](https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automobile-price-deploy), which provides an overview of all the modules and explains how to build and deploy your first machine learning pipeline. 
