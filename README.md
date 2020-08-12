@@ -63,6 +63,12 @@ The knowledge of other Azure Products and Services required is quite broad, but 
 
 ## Machine Learning & Python
 
+There are some general questions on Machine Learning (PCA, cross-validation, performance metrics, class imbalances, model selection, feature engineering, etc.) but they are in general not very hard. 
+
+In addition to this, there are some questions about Python and sci-kit learn. These questions are, again, not very hard but you need to know some particular syntax which might or might not be tricky. For example, there was a question about the values that are expected as arguments for the scikit-learn PCA function. 
+
+Finally, there are some general questions about PyTorch, TensorFlow, and other machine learning frameworks. Again, a good strategy is to follow some of the machine learning modules and look at some exam dumps. 
+
 ## Other resources
 
 * [Alex Nogue's learning repository](https://github.com/alex-nogue/Microsoft_Certification_DP-100_Azure_Data_Scientist)
