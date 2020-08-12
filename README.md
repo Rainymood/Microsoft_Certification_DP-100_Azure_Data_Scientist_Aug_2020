@@ -16,7 +16,7 @@ Here is an overview of the study material I used and recommend.
 
 ## Azure ML Studio
 
-![](./mlstudio.png)
+![](./drag-data.gif)
 
 Almost every question regarding Azure ML Studio / Azure ML Designer (preview) is about its modules and how to use them. I highly suggest going through the list of modules which can be found [here](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-module-reference/module-reference) in the Algorithm & Module reference page. 
 
